@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on: [**HireNest**](https://hire-nest-by-imran.web.app/)
-- 👯 Looking to collaborate on: [**DiverseDish**](https://diverse-dish-by-imran.web.app/)
+- 👯 Looking to collaborate on: [**Programming Hero**]([https://diverse-dish-by-imran.web.app/](https://web.programming-hero.com/home))
 - 🌱 Currently learning: **Next.js, MongoDB, Express.js, Node.js**
 - 💬 Ask me about: **MERN Stack, Firebase, Tailwind, and Frontend Tools**
 - 📫 Reach me at: **programmarimran@gmail.com**
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="mailto:programmarimran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mdimranhasan-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/mdimranhasan-dev](https://www.linkedin.com/in/md-imran-hasan-664907354/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
