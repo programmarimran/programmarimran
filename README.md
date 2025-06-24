@@ -12,6 +12,10 @@
 
 ## 🧑‍💻 About Me
 
+Assalamu Alaikum! I’m **Md Imran Hasan**, a passionate **MERN Stack Developer**.  
+I have worked on real-world projects like **HireNest** and **ProFast**, where I built modern, responsive web applications.  
+I'm highly enthusiastic about **technology**, always eager to learn new tools and stay updated with the latest trends in web development.
+
 - 🔭 Currently working on: [**HireNest**](https://hire-nest-by-imran.web.app/)
 - 🤝 Open to collaborate with [Programming Hero](https://web.programming-hero.com/home)
 - 🌱 Currently learning: **Next.js, MongoDB, Express.js, Node.js**
@@ -44,8 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmarimran&layout=compact&theme=default" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=programmarimran&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-  <br/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmarimran" />
 </p>
 ---
 
