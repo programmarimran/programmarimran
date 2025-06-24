@@ -1,7 +1,11 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=Shafran%20Imran&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=React%20%26%20MERN%20Stack%20Dev%20%7C%7C%20JavaScript%20Enthusiast&descAlignY=51&descAlign=62" alt="Shafran Imran Banner"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=Shafran%20Imran&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=React%20%26%20MERN%20Stack%20Dev%20%7C%7C%20JavaScript%20Enthusiast&descAlignY=51&descAlign=62"
+    alt="Shafran Imran Banner"
+  />
 </div>
+
 
 
 
