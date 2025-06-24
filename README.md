@@ -4,13 +4,13 @@
 </div>
 
 ---
-<h1 align="center">Hi 👋, I'm Md Imran Hasan</h1>
-<h3 align="center">React & MERN Stack Dev | JavaScript Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmarimran&label=Profile%20views&color=0e75b6&style=flat" alt="programmarimran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmarimran" alt="programmarimran" /></a> </p>
-
+About
+---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Hriday;Frontend+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+</div>
+---
 - 🔭 I’m currently working on [HireNest](https://hire-nest-by-imran.web.app/)
 
 - 🌱 I’m currently learning **Next.js, MongoDb, Express.js , Node.js**
