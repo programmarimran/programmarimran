@@ -28,16 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmarimran&layout=compact&theme=default" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=programmarimran&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -46,6 +36,17 @@
   <a href="https://www.facebook.com/mdimran.hasan.79827803"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmarimran&layout=compact&theme=default" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=programmarimran&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  <br/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmarimran" />
+</p>
 ---
 
 > ⚡ “Code. Learn. Build. Share.” — *Md Imran Hasan*
