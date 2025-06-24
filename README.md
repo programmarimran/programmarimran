@@ -4,26 +4,6 @@
 </div>
 
 ---
-
-## 🧑‍💻 About Me
-
-I’m a passionate web developer from Bangladesh who loves turning ideas into real-world applications. I focus on building full-stack web apps using the MERN stack.
-
-- 🌱 I’m currently learning **Next.js**
-- 🔧 I’m working on a **Tourism website** project
-- ✨ I enjoy solving real problems with clean code
-- 📹 Also preparing to start a YouTube channel for coding tutorials
-
----
-
-## 🚀 Skills & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,express,nodejs,mongodb,firebase,github,vscode" />
-</p>
-
----
-
 <h1 align="center">Hi 👋, I'm Md Imran Hasan</h1>
 <h3 align="center">React & MERN Stack Dev | JavaScript Enthusiast</h3>
 
@@ -33,13 +13,25 @@ I’m a passionate web developer from Bangladesh who loves turning ideas into re
 
 - 🔭 I’m currently working on [HireNest](https://hire-nest-by-imran.web.app/)
 
-- 🌱 I’m currently learning **MongoDb, Express.js , Node.js**
+- 🌱 I’m currently learning **Next.js, MongoDb, Express.js , Node.js**
 
 - 👯 I’m looking to collaborate on [DiverseDish](https://diverse-dish-by-imran.web.app/)
 
 - 💬 Ask me about **MERN Stack Developer**
 
 - 📫 How to reach me **programmarimran@gmail.com**
+
+- 
+---
+## 🚀 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,express,nodejs,mongodb,firebase,github,vscode" />
+</p>
+
+---
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
