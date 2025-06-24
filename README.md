@@ -13,7 +13,6 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on: [**HireNest**](https://hire-nest-by-imran.web.app/)
-- 👯 Looking to collaborate on: [**DiverseDish**](https://diverse-dish-by-imran.web.app/)
 - 🤝 Open to collaborate with [Programming Hero](https://web.programming-hero.com/home)
 - 🌱 Currently learning: **Next.js, MongoDB, Express.js, Node.js**
 - 💬 Ask me about: **MERN Stack, Firebase, Tailwind, and Frontend Tools**
