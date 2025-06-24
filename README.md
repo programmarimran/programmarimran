@@ -5,7 +5,7 @@
 
 <!-- 🧠 Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hi+there!+I'm+Imran;💻+MERN+Stack+Developer;🌐+Javascript+Lover;🌍+From+Bangladesh+🇧🇩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hi+there!+I'm+Imran;💻+MERN+Stack+Developer;🌐+JavaScript+Lover;🌍+From+Bangladesh+🇧🇩" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,7 +13,8 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on: [**HireNest**](https://hire-nest-by-imran.web.app/)
-- 👯 Looking to collaborate on: [**Programming Hero**]([https://diverse-dish-by-imran.web.app/](https://web.programming-hero.com/home))
+- 👯 Looking to collaborate on: [**DiverseDish**](https://diverse-dish-by-imran.web.app/)
+- 🤝 Open to collaborate with [Programming Hero](https://web.programming-hero.com/home)
 - 🌱 Currently learning: **Next.js, MongoDB, Express.js, Node.js**
 - 💬 Ask me about: **MERN Stack, Firebase, Tailwind, and Frontend Tools**
 - 📫 Reach me at: **programmarimran@gmail.com**
@@ -42,7 +43,8 @@
 
 <p align="center">
   <a href="mailto:programmarimran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/mdimranhasan-dev](https://www.linkedin.com/in/md-imran-hasan-664907354/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-imran-hasan-664907354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/mdimran.hasan.79827803"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
