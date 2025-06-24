@@ -19,7 +19,7 @@
 ```js
 const imran = {
   name: "Md Imran Hasan",
-  role: "Fullstack Web Developer",
+  role: "React & MERN Stack Dev || JavaScript Enthusiast",
   location: "Bangladesh 🇧🇩",
   currentlyWorkingOn: "MERN Stack Projects & APIs",
   currentlyLearning: ["Next.js", "TypeScript", "GraphQL"],
