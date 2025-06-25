@@ -4,9 +4,10 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width:100%; max-width:900px; border-radius:10px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlsajBuZG1tYTA4N3Q4Mm13M3R6aGNhdHBrOXVpcXB3MjZzNzFyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT8qBsOjMOcdeGJIU8/giphy.gif" 
+       alt="Awesome Coding GIF" 
+       style="width:100%; max-width:900px; border-radius:15px;" />
 </div>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F76C6C&width=800&lines=Assalamu+Alaikum+👋+I'm+Md+Imran+Hasan;MERN+Stack+Developer+from+Bangladesh;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+learning+%7C+Open+to+Work" alt="Typing SVG" />
