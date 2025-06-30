@@ -21,7 +21,8 @@ I'm highly enthusiastic about **technology**, always eager to learn new tools an
 - 🔭 I’m currently working on: `HireNest` & `Diverse Dish`  
 - 🌱 Learning: `Next.js`, `React Query`, `Firebase`, and `JWT Auth`
 - 🤝 Open to: Frontend/Full-stack developer roles  
-- 📬 Email: **programmarimran@gmail.com**  
+- 📬 Email: **programmarimran@gmail.com**
+- Portfolio: https://imran-dev-portfolio.vercel.app/
 - 🌍 Location: Dhaka, Bangladesh  
 - 🎓 Student at: [Programming Hero](https://web.programming-hero.com)
 
