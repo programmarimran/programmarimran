@@ -2,9 +2,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=MD%20IMRAN%20HASAN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=React%20and%20MERN%20Stack%20Dev%20%7C%20JavaScript%20Enthusiast&descAlignY=51&descAlign=62"/>
 </div>
-<div align="center">
+
+<p align="center">
+  <img src="/assets//banner.png" alt="Banner" />
+</p>
+<!-- <div align="center">
   <img src="./coding.gif" alt="Coding GIF" width="900" style="border-radius: 10px;" />
-</div>
+</div> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F76C6C&width=800&lines=Assalamu+Alaikum+👋+I'm+Md+Imran+Hasan;MERN+Stack+Developer+from+Bangladesh;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+learning+%7C+Open+to+Work" alt="Typing SVG" />
